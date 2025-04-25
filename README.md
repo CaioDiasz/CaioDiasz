@@ -23,6 +23,11 @@ Atualmente sendo jovem aprendiz no setor administrativo buscando ir para area de
    <a href="https://www.linkedin.com/in/caio-d-201880222/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href = "caiopaulino76@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
-
-  
 </div>
+
+
+<div align="left">
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernanda-Kipper&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
+  
+ </div>
