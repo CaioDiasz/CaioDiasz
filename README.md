@@ -6,6 +6,11 @@ Cursando Bacharelado em Ciencias da Computação (3º/8º semestre) na Universid
 
 Atualmente sendo jovem aprendiz no setor administrativo buscando ir para area de tecnologia.
 
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=caiodiasz&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/caiodiasz/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=caiodiasz&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/caiodiasz/github-readme-stats#gh-light-mode-only)
+
+
 ---
 
 ### 🧰 Linguagens
@@ -24,3 +29,7 @@ Atualmente sendo jovem aprendiz no setor administrativo buscando ir para area de
    <a href = "caiopaulino76@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 </div>
+
+
+
+
