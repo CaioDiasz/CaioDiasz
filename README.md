@@ -4,7 +4,7 @@
 
 Cursando Bacharelado em Ciencias da Computação (4º/8º semestre) na Universidade Paulista, eu gosto de escrever códigos, gosto de criar soluções para desafios do dia a dia.
 
-Atualmente sendo jovem aprendiz no setor administrativo buscando ir para area de tecnologia.
+Atualmente sendo auxiliar de prevenção a fraude buscando ir para area de tecnologia.
 
 ## GitHub Stats ⚡
 <div>
