@@ -5,17 +5,6 @@
 Cursando Bacharelado em Ciencias da Computação (4º/8º semestre) na Universidade Paulista, eu gosto de escrever códigos, gosto de criar soluções para desafios do dia a dia.
 
 Atualmente sendo auxiliar de prevenção a fraude buscando ir para area de tecnologia.
-
-## GitHub Stats ⚡
-<div>
-  <a href="https://github.com/caiodiasz">
-  <center>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiodiasz&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="centered image">
-  </center>
-  <center>  
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiodiasz&layout=compact&langs_count=7&theme=radical"/> 
-  </center>
-</div>
     
 ---
 
