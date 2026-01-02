@@ -2,7 +2,7 @@
 
 **`Software Engineer `**
 
-Cursando Bacharelado em Ciencias da Computação (4º/8º semestre) na Universidade Paulista, eu gosto de escrever códigos, gosto de criar soluções para desafios do dia a dia.
+Cursando Bacharelado em Ciencias da Computação (5º/8º semestre) na Universidade Paulista, eu gosto de escrever códigos, gosto de criar soluções para desafios do dia a dia.
 
 Atualmente sendo auxiliar de prevenção a fraude buscando ir para area de tecnologia.
     
